@@ -14,11 +14,7 @@ HubSpot is an American developer and marketer of software products for inbound m
 ![image](https://user-images.githubusercontent.com/103635352/209299781-a0843a65-e477-4e74-87a0-392b56e8f3a0.png)
 
 ## Team Members
-• Pratik Dere Patil</br>
-• Amrutha</br>
-• Hirak Debadhikary</br>
-• Ejaz Ahmad</br>
-• Sachin Parmar</br>
+• Saurabh Kadam</br>
 
 ## Technology Used
  • HTML </br>
